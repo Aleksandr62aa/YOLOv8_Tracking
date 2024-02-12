@@ -1,4 +1,4 @@
-# РЕАЛИЗАЦИЯ ТРЕКИНГА (SORT и DeepSORT)
+# РЕАЛИЗАЦИЯ ТРЕКИНГА (SORT ,DeepSORT, BoT-SORT, ByteTrack)
 
 
 ## __УСТАНОВКА:__
