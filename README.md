@@ -6,11 +6,11 @@
 Данные команды требуется запускать последовательно в терминале:
 1. Склонируйте к себе этот репозиторий 
 ```
-git clone https://github.com/Koldim2001/SORT-DeepSORT-Tracker.git
+git clone https://github.com/Aleksandr62aa/YOLOv8_Tracking.git
 ```
 2. Перейдите с помощью команды cd в созданную папку SORT-DeepSORT-Tracker
 ```
-cd SORT-DeepSORT-Tracker
+cd YOLOv8_Tracking
 ```
 3. Загрузите все необходимые библиотеки: 
 ```
