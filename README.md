@@ -20,7 +20,7 @@ PS: Лучше torch ставить сразу с поддержкой gpu __е�
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-4. Запустите:
+4. Запустите примеры трекингов:
 ```
 Yolo_Sort.ipynb
 ```
@@ -33,7 +33,6 @@ Yolo_ByteTrack.ipynb
 ```
 Yolo_BotSort.ipynb
 ```
-в которых примеры трекинга
 
 
 
