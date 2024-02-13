@@ -22,7 +22,16 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ```
 4. Запустите:
 ```
-Yolo_Sort.ipynb, Yolo_DeepSort.ipynb, Yolo_ByteTrack.ipynb, Yolo_BotSort.ipynb,
+Yolo_Sort.ipynb
+```
+```
+Yolo_DeepSort.ipynb
+```
+```
+Yolo_ByteTrack.ipynb
+```
+```
+Yolo_BotSort.ipynb
 ```
 в которых примеры трекинга
 
