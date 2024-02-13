@@ -20,7 +20,7 @@ PS: Лучше torch ставить сразу с поддержкой gpu __е�
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-4. Запустите: __Yolo_Sort.ipynb__, __Yolo_DeepSort.ipynb__, __Yolo_ByteTrack.ipynb__, __Yolo_BotSort.ipynb__ в которых примеры трекинга
+4. Запустите: __Yolo_Sort.ipynb__, __Yolo_DeepSort.ipynb__, __Yolo_ByteTrack.ipynb__, __Yolo_BotSort.ipynb__, в которых примеры трекинга
 ---
 
 
