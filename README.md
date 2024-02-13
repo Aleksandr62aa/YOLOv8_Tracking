@@ -20,7 +20,7 @@ PS: Лучше torch ставить сразу с поддержкой gpu __е�
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-4. Запустите ноутбук [main_tracker_check.ipynb](https://github.com/Koldim2001/SORT-DeepSORT-Tracker/blob/main/main_tracker_check.ipynb), в котором примеры трекинга
+4. Запустите ноутбук [Yolo_DeepSort.ipynb], [Yolo_DeepSort.ipynb], [Yolo_DeepSort.ipynb], [Yolo_DeepSort.ipynb] в котором примеры трекинга
 
 <br/>
 
