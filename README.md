@@ -8,7 +8,7 @@
 ```
 git clone https://github.com/Aleksandr62aa/YOLOv8_Tracking.git
 ```
-2. Перейдите с помощью команды cd в созданную папку SORT-DeepSORT-Tracker
+2. Перейдите с помощью команды cd в созданную папку YOLOv8_Tracking
 ```
 cd YOLOv8_Tracking
 ```
